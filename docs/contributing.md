@@ -18,6 +18,7 @@ sign a new one.
 
 ### How to get access to Google SecOps for development purposes
 
+
 In order to get access to the Google SecOps platform, you need to submit
 this [form](https://docs.google.com/forms/d/e/1FAIpQLSf7LYpIPhzFAYLo2NPpl5NUBX6h2zG4rDlLjWjm2Ic_U2FhZg/viewform).
 The form will be triaged by our Partner Management team. We might reach out to get more details. If
